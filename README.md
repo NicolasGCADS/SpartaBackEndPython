@@ -8,6 +8,7 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
 1. Clone o repositório:
    git clone https://github.com/NicolasGCADS/SpartaBackEndPython
 
+```bash
    Rode no Visual Studio Code
    python -m venv .venv
    //Windows
@@ -24,6 +25,7 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
 
    Rode com essa URL
    Swagger UI: http://127.0.0.1:8000/docs
+```
 
    ## Exemplos em Json para testar a Aplicação
    
