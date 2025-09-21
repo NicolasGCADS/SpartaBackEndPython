@@ -26,6 +26,7 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
    Swagger UI: http://127.0.0.1:8000/docs
 
    ## Exemplos em Json para testar a Aplicação
+   ´´´bash
 1.
 {
   "taxa": 0.01,
@@ -71,6 +72,7 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
     }
   ]
 }
+   ´´´
 
    ## Principais Decisões
     
