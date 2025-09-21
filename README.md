@@ -25,6 +25,53 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
    Rode com essa URL
    Swagger UI: http://127.0.0.1:8000/docs
 
+   ## Exemplos em Json para testar a Aplicação
+1.
+{
+  "taxa": 0.01,
+  "cotas": [
+    {
+      "valor": 95.50,
+      "quantidades": [50.0, 30.0]
+    },
+    {
+      "valor": 96.25,
+      "quantidades": [50.0, 30.0]
+    }
+  ]
+}
+
+2.
+{
+  "taxa": 0.015,
+  "cotas": [
+    {
+      "valor": 100.00,
+      "quantidades": [20.0, 40.0]
+    },
+    {
+      "valor": 101.50,
+      "quantidades": [25.0, 35.0]
+    }
+  ]
+}
+
+
+3.
+{
+  "taxa": 0.008,
+  "cotas": [
+    {
+      "valor": 80.75,
+      "quantidades": [10.0, 50.0]
+    },
+    {
+      "valor": 82.00,
+      "quantidades": [15.0, 45.0]
+    }
+  ]
+}
+
    ## Principais Decisões
     
 
