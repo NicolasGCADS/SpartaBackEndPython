@@ -26,6 +26,9 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
    Rode com essa URL
    Swagger UI: http://127.0.0.1:8000/docs
 
+   ```
+   ## Decisões principais que tomou: 
+
    
 
 
