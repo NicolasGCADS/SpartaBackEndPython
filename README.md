@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
    Baixe as dependências
    pip install fastapi uvicorn
 
-   Rode o servidor:
+   Rode o servidor: (Usando Visual Studio Code, é mais facil usar a extensão FastAPI Runner)
    uvicorn app:app --reload
    c:\Users\SeuUsuario\Desktop\SpartaBackEndPython\.venv\Scripts\python.exe -m uvicorn app:app --host 127.0.0.1 --port 8000 --reload
 
