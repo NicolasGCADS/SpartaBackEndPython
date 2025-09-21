@@ -6,7 +6,6 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
 ## ▶️ Como rodar localmente
 
 1. Clone o repositório:
-   ```bash
    git clone https://github.com/NicolasGCADS/SpartaBackEndPython
 
    Rode no Visual Studio Code
@@ -26,7 +25,6 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
    Rode com essa URL
    Swagger UI: http://127.0.0.1:8000/docs
 
-   ```
    ## Principais Decisões
     
 
