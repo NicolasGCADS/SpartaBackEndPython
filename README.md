@@ -9,12 +9,14 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
    git clone https://github.com/NicolasGCADS/SpartaBackEndPython
 
 ```bash
-   Rode no Visual Studio Code
+   Rode no Visual Studio Code 
    python -m venv .venv
    //Windows
    .venv\Scripts\activate
    //Linux
    source .venv/bin/activate
+   (Caso ocorra algum erro nesse codigo, ir para a barra de pesquisa e colocar >Select Interpreter e criar sua venv e colocar "Search `Pypl` packages" e baixar fastapi e Uvicorn)
+
 
    Baixe as dependências
    pip install fastapi uvicorn
