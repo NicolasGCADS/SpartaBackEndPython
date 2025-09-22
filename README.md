@@ -27,7 +27,7 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
    Swagger UI: http://127.0.0.1:8000/docs
 ```
 
-   ## Exemplos em Json para testar a Aplicação
+   ## Exemplos em Json para testar a Aplicação (Copie e cole dessa forma abaixo)
    
 ```bash
 1.
@@ -78,6 +78,9 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
    ```
 
    ## Principais Decisões
+   1. Optei por utilizar FastApi por conhecer a plataforma
+   2. Optei por utilizar o Python
+   3. Utilizei Swagger por conta de conhecer a plataforma 
     
 
    
