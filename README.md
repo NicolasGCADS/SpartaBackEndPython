@@ -15,15 +15,15 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
    .venv\Scripts\activate
    //Linux
    source .venv/bin/activate
-   (Caso ocorra algum erro nesse codigo, ir para a barra de pesquisa e colocar >Select Interpreter e criar sua venv e colocar "Search `Pypl` packages" e baixar fastapi e Uvicorn)
-
+   (Caso ocorra algum erro nesse codigo, ir para a barra de pesquisa do VsCode e colocar >Python: Select Interpreter e criar sua .venv e colocar "Search `Pypl` packages" e baixar fastapi e Uvicorn)
 
    Baixe as dependências
    pip install fastapi uvicorn
 
    Rode o servidor: (Usando Visual Studio Code, é mais facil usar a extensão FastAPI Runner)
-   uvicorn app:app --reload
+   cd src
    c:\Users\SeuUsuario\Desktop\SpartaBackEndPython\.venv\Scripts\python.exe -m uvicorn app:app --host 127.0.0.1 --port 8000 --reload
+   uvicorn app:app --reload
 
    Rode com essa URL
    Swagger UI: http://127.0.0.1:8000/docs
